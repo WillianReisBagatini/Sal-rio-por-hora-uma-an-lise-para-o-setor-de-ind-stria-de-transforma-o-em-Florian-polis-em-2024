@@ -1,0 +1,11 @@
+﻿  Estatísticas de avaliação da previsão
+
+  Erro Médio                        5,9397e-016
+  Raiz do Erro Quadrado Médio       0,25367
+  Erro Absoluto  Médio              0,20349
+  Erro Percentual Médio            -0,92898
+  Erro Percentual Absoluto Médio    7,8373
+  U de Theil                        0,48628
+  Proporção do viés, UM             0
+  Proporção da regressão, UR        0
+  Proporção do distúrbio, UD        1
